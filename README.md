@@ -1,2 +1,2 @@
-# PrepCourseHenry
-Este es un repositorio modulo 2 del Prepcourse Henry
+ismael gonzalez
+este proyecto es una prueba de como crear un repositorio
